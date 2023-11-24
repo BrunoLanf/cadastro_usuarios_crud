@@ -29,13 +29,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    <title>Formulário de Clientes</title>
+    <title>Formulário Pessoal</title>
 </head>
 <body>
     <div class="background">
     <div class="box">
         <form action="index.php" method="POST" >
-            <h2>Formulário dos Clientes</h2>
+            <h2>Formulário Pessoal</h2>
             <br><br>
             <div class="inputBox">
                 <input type="text" name="nome" id="nome" class="inputUser" required>
